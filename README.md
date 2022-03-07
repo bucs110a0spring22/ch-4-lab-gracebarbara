@@ -8,18 +8,19 @@
 _Replace anything surrounded by the `< >` symbols._
 
 ## SUMMARY:
- < Provide a short description of your program's functionality. No more than a couple sentences. >
+ In order to draw a sine function with turtle, I first created a function that uses the math module and a for loop to iterate the angle from -360 to 360 and map out the sine curve. It was then necessary to alter the window of the screen using set world coordinates within a function so that there was more room to plot the values of the sine function. Then, I used another funtion to draw the axis using basic turtle commands and 
 
 ## GRACE DAYS
-Grace days used for this assignment: < # >
+Grace days used for this assignment: 0
 
-Grace days remaining: < # >/5
+Grace days remaining: 5/5
 
 ## KNOWN BUGS AND INCOMPLETE PARTS:
- < What parts of the project you were not able to complete >
+ None
 
 ## REFERENCES:
- < List any outside resources used >
+ https://docs.python.org/3/library/turtle.html
+ https://docs.python.org/3/library/turtle.html?highlight=set%20world%20coordinates#turtle.setworldcoordinates
 
 ## MISCELLANEOUS COMMENTS:
- < Anything you would like the grader to know >
+ None
